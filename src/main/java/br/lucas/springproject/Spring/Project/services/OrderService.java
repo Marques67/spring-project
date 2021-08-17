@@ -1,7 +1,6 @@
 package br.lucas.springproject.Spring.Project.services;
 
 import br.lucas.springproject.Spring.Project.entities.Order;
-import br.lucas.springproject.Spring.Project.entities.User;
 import br.lucas.springproject.Spring.Project.repositories.OrderRepository;
 import br.lucas.springproject.Spring.Project.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
